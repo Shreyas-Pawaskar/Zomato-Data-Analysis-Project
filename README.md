@@ -45,7 +45,7 @@ Throughout the project, you'll create visualizations like:
 To get started, clone this repository and install the necessary Python libraries:
 
 ```bash
-git clone https://github.com/yourusername/zomato-data-analysis.git
+git clone https://github.com/Shreyas-Pawaskar/zomato-data-analysis.git
 cd zomato-data-analysis
 pip install -r requirements.txt
 ```
